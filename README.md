@@ -60,7 +60,7 @@
 ## Featured Projects
 
 <p>
-  Here are a few projects that showcase my skills and creativity:
+  Future projects will be showcase my skills and creativity:
 </p>
 
 <ul>
